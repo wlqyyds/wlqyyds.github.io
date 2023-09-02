@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="simple-pre-loader">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/assets/simple-pre-loader/loader-icons-set-2-32x64x128.zip!/" />
+      <root url="jar://$PROJECT_DIR$/assets/simple-pre-loader/loader-icons-set-1-32x64x128.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
